@@ -4,5 +4,5 @@ Eu sou o Roberto Sert, sou um futuro programador full stack, atualmente estou ap
 
 - HTML <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 - CSS <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
-- JAVASCRIPT <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="java-logo" />
+
 
